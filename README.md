@@ -5,16 +5,24 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+Software engineering is the systematic process of designing developing deploying and maintaining software solutions in order create a software solution to a real world problem. Software Engineering is vital to create technological solutions in different sectors of life like in commerce, education, Health, Entertainment.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+1. Creation of Programing language: we were able to advance software engineering and make programing languages where we could add logic to computer devices enabling them to execute step by step instructions.
+2. Creation of structued programing langauge
+3. Creation of Agile methodologies
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+1. Requirement: we are able analyze to find out what resources our software will need as well as user requirements.
+2. Design: during this phase we can create system architecture that we would implement and define the problem we want to tackle
+3. Implementation: In this phase we computerize solution and write code to solve the problem defined during previous phases of the SDLC
+4. Testing: when testing we are actively looking for bugs and things to impair the functionality and usability of our code by users
+5. Deployment: When all testing is complete, we release our software product for use.
+6. Maintainance: we maintain to improve the User experience by and revise the code and find more bugs by supporting the code and pushing constant updates there by improving the overall code.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+The waterfall methodology is a fixed and rigid process that ensures each phase of the SDLC is complete before moving to the next phase while agile methodology is a lean, flexable and scalable and iterative process, that enables constant software dev
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
